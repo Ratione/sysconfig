@@ -1,0 +1,7 @@
+[core]
+	editor = nvim
+[user]
+	name = Ratione
+	email = minatrea.ian@gmail.com
+[credential]
+	helper = cache --timeout=3600
